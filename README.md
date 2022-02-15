@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Tattep Rattanajan</h1>
+<p align="center"> Computer engineering student <p>
+  
 
-<!--
-**tattepr/tattepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=tattepr&row=7&column=7&theme=darkhub)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tattepr&layout=compact&theme=radical)](https://github.com/vitvara/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tattepr&theme=dracula)
+
+### Recent Activity
+<!--START_SECTION:activity-->
