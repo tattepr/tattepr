@@ -1,5 +1,5 @@
 <h1 align="center"> Tattep Rattanajan</h1>
-<p align="center"> Computer engineering student <p>
+<p align="center"> Software engineering <p>
   
 
   
